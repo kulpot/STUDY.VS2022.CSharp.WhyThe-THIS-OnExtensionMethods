@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhyThe THIS OnExtensionMethods", "WhyThe THIS OnExtensionMethods\WhyThe THIS OnExtensionMethods.csproj", "{EA02CE22-C725-4482-8CF4-76DE1575BE0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA02CE22-C725-4482-8CF4-76DE1575BE0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA02CE22-C725-4482-8CF4-76DE1575BE0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA02CE22-C725-4482-8CF4-76DE1575BE0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA02CE22-C725-4482-8CF4-76DE1575BE0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0347550C-84FA-467B-8CA9-B305F419D6E5}
+	EndGlobalSection
+EndGlobal
